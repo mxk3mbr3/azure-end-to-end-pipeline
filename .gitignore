@@ -1,0 +1,10 @@
+# Byte-compiled folder
+__pycache__/ 
+
+# Analytics
+*.pbix
+
+# Other
+images/project_architecture_photos/
+.vscode/
+archive/
